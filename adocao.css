@@ -1,0 +1,20 @@
+header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #1F9440;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+    color: #545454;
+}
