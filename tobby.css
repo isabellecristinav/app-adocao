@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #1F9440;
+}
+
+p {
+    text-align: center;
+    color: #545454;
+    font-size: 20px;
+
+}
+
+button {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 270px;
+    height: 62px;
+    left: 53px;
+    top: 646px;
+    text-align: center;
+    background-color: #1F9440;
+    border-radius: 50px;
+    border: 0;
+    color: white;
+}

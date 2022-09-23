@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: 87px;
+    top: 18px;
+}
+
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    left: 87px;
+    top: 272px;
+}
+
+h3 {
+    font-size: 20px;
+    line-height: 27px;
+    color: #1F9440;
+}
+
+img{
+    border: solid red;
+    border-radius: 20px;
+}
